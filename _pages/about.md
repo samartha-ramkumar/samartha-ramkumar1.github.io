@@ -12,7 +12,7 @@ Hi! I am a Graduate student at University of Washington, Seattle working on Mach
 
 
 
-My CV is available is here!
+My CV is available is [here](https://samartha27.github.io/cv/)!
 
 
 A data-driven personal website
