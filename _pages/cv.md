@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-Technical C V
 ======
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
 
