@@ -1,5 +1,5 @@
 
-Techincal C V
+C V
 ======
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
 
