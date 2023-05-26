@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
+Techincal CV
 ======
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
 
