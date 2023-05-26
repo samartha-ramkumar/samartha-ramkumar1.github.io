@@ -1,5 +1,14 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
-C V
+
+Technical C V
 ======
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
 
