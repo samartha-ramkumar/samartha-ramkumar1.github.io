@@ -25,6 +25,7 @@ Please [email](samartha.arks@gmail.colm) me for more details regarding my Techic
 
 EXTRACURRICULAR ACTIVITIES
 ============
+
 National Service Scheme (NSS)/ (Rotaract club), BMS College of Engineering
 ----------
 * Core team member -  coordinated events like Cleanliness Drive, Vigilance Week,
