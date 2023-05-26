@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 ======
 
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
