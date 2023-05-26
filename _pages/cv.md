@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Techincal CV
 ======
+
 Please [email](samartha.arks@gmail.colm) me for more details regarding my Techical Background.
 
   
@@ -26,7 +25,7 @@ Please [email](samartha.arks@gmail.colm) me for more details regarding my Techic
 EXTRACURRICULAR ACTIVITIES
 ============
 
-National Service Scheme (NSS)/ (Rotaract club), BMS College of Engineering
+National Service Scheme (NSS)/ (Rotaract club)
 ----------
 * Core team member -  coordinated events like Cleanliness Drive, Vigilance Week,
 Environment Awareness, Tree plantation, etc. in 2017, 2018 and 2019
