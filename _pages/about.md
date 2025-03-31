@@ -15,4 +15,4 @@ I did my summer internship at Sportsbox.ai, Inc. where I worked on 3D human pose
 
 
 
-For more details, please click here [here](https://samartha27.github.io/cv/)!
+For more details, please click here [here](https://samartha-ramkumar.github.io/cv/)!
